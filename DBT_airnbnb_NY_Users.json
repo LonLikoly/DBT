@@ -1,0 +1,36 @@
+[{
+  "_id": 1,
+  "first_name": "Ivan",
+  "last_name": "Petrov",
+  "age": 25,
+  "birth_date": {
+    "$date": "2000-05-09T00:00:00.000Z"
+  },
+  "gender": "M",
+  "phone": "+3758521455874",
+  "email": "TEST@twser.by"
+},
+{
+  "_id": 2,
+  "first_name": "Test",
+  "last_name": "Post",
+  "age": 21,
+  "birth_date": {
+    "$date": "2003-04-04T00:00:00.000Z"
+  },
+  "gender": "M",
+  "phone": "+375456456474",
+  "email": "JHGj@KLJHIK.by"
+},
+{
+  "_id": 3,
+  "first_name": "Miki",
+  "last_name": "Set",
+  "age": 31,
+  "birth_date": {
+    "$date": "1993-04-04T00:00:00.000Z"
+  },
+  "gender": "F",
+  "phone": "+375454866474",
+  "email": "JHGj@MIKI.by"
+}]

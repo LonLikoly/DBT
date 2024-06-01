@@ -1,0 +1,30 @@
+[{
+  "_id": 1,
+  "street": "FirstStreet",
+  "latitude": 42.75213,
+  "longitude": -24.5621,
+  "postal_code": "12542",
+  "city": "Brest",
+  "country": "Belarus",
+  "state": "Brest region"
+},
+{
+  "_id": 2,
+  "street": "Main Street",
+  "latitude": 42.75413,
+  "longitude": -23.5621,
+  "postal_code": "12542",
+  "city": "Kiev",
+  "country": "Ukrain",
+  "state": "Kiev"
+},
+{
+  "_id": 3,
+  "street": "Big Street",
+  "latitude": 40.85413,
+  "longitude": -20.58415,
+  "postal_code": "185412",
+  "city": "Paris",
+  "country": "France",
+  "state": "Paris"
+}]

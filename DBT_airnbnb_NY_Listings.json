@@ -1,0 +1,202 @@
+[{
+  "_id": 1,
+  "Host": 1,
+  "Address": 1,
+  "name": "Hottel Lamp and Tabel",
+  "guestIncluded": 2,
+  "price": 47.5,
+  "minimumNights": 1,
+  "availability": 5,
+  "numberOfReviews": 8,
+  "lastReview": {
+    "$date": "2024-05-01T12:05:45.000Z"
+  },
+  "neighborhoodName": "Brest region",
+  "boroughName": "Belarus",
+  "RoomTypes": [
+    {
+      "roomType_name": "Comfort1",
+      "description": "Lamp and Tabel"
+    },
+    {
+      "roomType_name": "Comfort2",
+      "description": "Tow Lamps and Tabel"
+    }
+  ],
+  "ListingPhotos": [
+    {
+      "photoURL": "/photo/1/15.jpg",
+      "description": "Interesting photo"
+    },
+    {
+      "photoURL": "/photo/1/18.jpg",
+      "description": "Not interesting photo"
+    }
+  ],
+  "Bookink": [
+    {
+      "checkin": {
+        "$date": "2024-05-08T15:25:25.000Z"
+      },
+      "checkOut": {
+        "$date": "2024-05-12T00:00:00.000Z"
+      },
+      "noGuests": 4,
+      "payments": [
+        {
+          "amount": 25.85,
+          "payment_date": {
+            "$date": "2024-05-08T15:25:25.000Z"
+          },
+          "payment_method": "casch"
+        }
+      ],
+      "Users": 2
+    },
+    {
+      "checkin": {
+        "$date": "2024-05-13T22:25:25.000Z"
+      },
+      "checkOut": {
+        "$date": "2024-05-15T00:00:00.000Z"
+      },
+      "noGuests": 2,
+      "Users": 3
+    }
+  ],
+  "Reviews": [
+    {
+      "rating": 5.8,
+      "comment": "All fine",
+      "review_date": {
+        "$date": "2024-05-08T15:25:25.000Z"
+      },
+      "Users": 2
+    }
+  ],
+  "AmenitiesName": [
+    "WC",
+    "Lamp"
+  ]
+},
+{
+  "_id": 2,
+  "Host": 2,
+  "Address": 2,
+  "name": "Hottel Luxs",
+  "guestIncluded": 2,
+  "price": 49.5,
+  "minimumNights": 1,
+  "availability": 5,
+  "numberOfReviews": 12,
+  "lastReview": {
+    "$date": "2023-05-01T12:05:45.000Z"
+  },
+  "neighborhoodName": "Voloz region",
+  "boroughName": "Grek",
+  "RoomTypes": [
+    {
+      "roomType_name": "Comfort1",
+      "description": "Lamp and Tabel"
+    },
+    {
+      "roomType_name": "Comfort2",
+      "description": "Tow Lamps and Tabel"
+    }
+  ],
+  "ListingPhotos": [
+    {
+      "photoURL": "/photo/1/15.jpg",
+      "description": "Interesting photo"
+    },
+    {
+      "photoURL": "/photo/1/18.jpg",
+      "description": "Not interesting photo"
+    }
+  ],
+  "AmenitiesName": [
+    "WC",
+    "Lamp"
+  ],
+  "Bookink": [
+    {
+      "checkin": {
+        "$date": "2023-05-08T15:25:25.000Z"
+      },
+      "checkOut": {
+        "$date": "2023-05-12T00:00:00.000Z"
+      },
+      "noGuests": 4,
+      "payments": [
+        {
+          "amount": 25.85,
+          "payment_date": {
+            "$date": "2024-05-08T15:25:25.000Z"
+          },
+          "payment_method": "casch"
+        }
+      ],
+      "Users": 2
+    },
+    {
+      "checkin": {
+        "$date": "2024-05-13T22:25:25.000Z"
+      },
+      "checkOut": {
+        "$date": "2024-05-15T00:00:00.000Z"
+      },
+      "noGuests": 2,
+      "Users": 3
+    }
+  ]
+},
+{
+  "_id": 3,
+  "Host": 3,
+  "Address": 3,
+  "name": "Hottel Fly",
+  "guestIncluded": 1,
+  "price": 59.5,
+  "minimumNights": 1,
+  "availability": 5,
+  "numberOfReviews": 22,
+  "lastReview": {
+    "$date": "2020-07-01T12:05:45.000Z"
+  },
+  "neighborhoodName": "Grodgno region",
+  "boroughName": "Belarus",
+  "RoomTypes": [
+    {
+      "roomType_name": "Comfort1",
+      "description": "Lamp and Tabel"
+    },
+    {
+      "roomType_name": "Comfort2",
+      "description": "Tow Lamps and Tabel"
+    }
+  ],
+  "ListingPhotos": [
+    {
+      "photoURL": "/photo/1/75.jpg",
+      "description": "Interesting photo"
+    },
+    {
+      "photoURL": "/photo/1/25.jpg",
+      "description": "Not interesting photo"
+    }
+  ],
+  "Reviews": [
+    {
+      "rating": 5.1,
+      "comment": "All fine",
+      "review_date": {
+        "$date": "2024-05-08T15:25:25.000Z"
+      },
+      "Users": 2
+    }
+  ],
+  "AmenitiesName": [
+    "WC",
+    "Lamp"
+  ]
+}]
